@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1425443692690.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "433E3B28",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "mvt",
+        "contentUrl" : "content?title=mvt&file=94232151539b4efaa685d5458d61b186.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 13,
+        "totalObservations" : "191641",
+        "variables" : "13"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
